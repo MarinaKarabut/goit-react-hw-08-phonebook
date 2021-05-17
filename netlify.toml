@@ -1,7 +1,0 @@
-
-[build]
-publish = "build"
-
-[[redirects]]
-status = 200nfrom = "/*"
-to = "/index.html"
